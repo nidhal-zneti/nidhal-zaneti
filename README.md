@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌍 Hello World, I'm <span style="color:#4db6ac;">Nidhal Zaneti</span> 👋  
+  🌍 Hello World, I'm <span style="color:#4db6ac;">Nidhal Zneti</span> 👋  
 </h1> 
 
 <h2 align="center"> Engineering Student</h2>
